@@ -1,3 +1,3 @@
-function demo(){}
-var data=a=> a
-this
+function demo() {}
+var data = a => a
+aaaaaaaaaaaaaaaaaaaaaaaaaa
